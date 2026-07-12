@@ -5,7 +5,9 @@
         alt="Quasar logo"
         src="~@/assets/quasar-logo-vertical.svg"
         style="width: 200px; height: 200px"
-      />
+      >
+
+      <h4 class="text-primary text-weight-bold">สวัสดีชาวโลก! นี่คือโปรเจกต์แรกของฉัน</h4>
 
       <q-btn
         class="q-mt-md"
@@ -20,4 +22,4 @@
 
 <script setup>
 //
-</script>
+</script> 
