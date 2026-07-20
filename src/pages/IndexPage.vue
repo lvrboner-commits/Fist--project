@@ -1,5 +1,6 @@
 <template>
   <q-page class="flex flex-center">
+<<<<<<< HEAD
     <q-card class="my-card q-pa-md" style="width: 400px">
       <q-card-section>
         <div class="text-h6 text-primary text-center">ฟอร์มบันทึกข้อมูลของฉัน</div>
@@ -56,3 +57,28 @@ export default {
   }
 }
 </script>
+=======
+    <div class="column items-center">
+      <img
+        alt="Quasar logo"
+        src="~@/assets/quasar-logo-vertical.svg"
+        style="width: 200px; height: 200px"
+      >
+
+      <h4 class="text-primary text-weight-bold">สวัสดีชาวโลก! นี่คือโปรเจกต์แรกของฉัน</h4>
+
+      <q-btn
+        class="q-mt-md"
+        color="primary"
+        to="/second"
+        label="Go to Second Page"
+        no-caps
+      />
+    </div>
+  </q-page>
+</template>
+
+<script setup>
+//
+</script> 
+>>>>>>> 6d12ac238e346975af951b099b0a5d8700ac3039
