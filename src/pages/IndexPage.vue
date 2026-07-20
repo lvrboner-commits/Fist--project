@@ -41,7 +41,7 @@ export default {
             color: 'red-5',
             textColor: 'white',
             icon: 'warning',
-            message: 'กรุณาติ๊กยอมรับเงื่อนไขก่อนดำเนินการต่อ'
+            message: 'กรุณาติ๊กยอมรับเงื่อนไขก่อนดำเนินการต่อไป'
           })
         } else {
           $q.notify({
