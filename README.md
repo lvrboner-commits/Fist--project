@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# Quasar App (my-new-project)
+=======
 # Quasar App (quasar-project)
+>>>>>>> 6d12ac238e346975af951b099b0a5d8700ac3039
 
 ## Install the dependencies
 
