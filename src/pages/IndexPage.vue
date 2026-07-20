@@ -2,7 +2,7 @@
   <q-page class="flex flex-center">
     <q-card class="my-card q-pa-md" style="width: 400px">
       <q-card-section>
-        <div class="text-h6 text-primary text-center">ฟอร์มบันทึกข้อมูล</div>
+        <div class="text-h6 text-primary text-center">ฟอร์มบันทึกข้อมูลของฉัน</div>
       </q-card-section>
 
       <q-form @submit="onSubmit" class="q-gutter-md">
