@@ -68,5 +68,5 @@
 import { ref } from 'vue'
 
 const text = ref('')
-
+const text1 = ref('')
 </div>
