@@ -1,7 +1,7 @@
 <template>
 <div class="q-pa-md">
   <div class="q-gutter-y-md column" style="max-width: 300px">
-    <q-input color="teal" v-model="text" label="Label">
+    <q-input color="purple" v-model="text" label="Label">
       <template v-slot:prepend>
         <q-icon name="event" />
       </template>
